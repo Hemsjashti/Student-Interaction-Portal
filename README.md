@@ -88,7 +88,7 @@ This project showcases practical use of:
 
 ```text
 Student-Interaction-Portal/
-├── 
+├── StudentInteractionPortal.py
 ├── accounts.txt
 ├── profiles.txt
 ├── feedback.txt
