@@ -36,6 +36,8 @@ The portal serves as a centralized platform where students can:
 
 It also includes an **Admin Dashboard** for managing users and viewing feedback.
 
+- 🔑 Password Masking
+
 ---
 
 ## ✨ Features
