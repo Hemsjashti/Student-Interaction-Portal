@@ -109,31 +109,21 @@ python StudentInteractionPortal.py
 4. Rules & Regulations
 5. Exit
 
-🧩 System Modules
-Authentication Module
-Forgot Password Module
-Rules & Regulations Module
-Senior Chat Module
-Academics Module
-Clubs Module
-Events Module
-Profile Management Module
-Feedback Module
-Admin Dashboard Module
 
 🎯 Project Objectives
-Help students quickly access important campus information.
-Provide a platform to connect with seniors.
-Enable profile management and feedback submission.
-Demonstrate practical use of Python fundamentals.
+1.Help students quickly access important campus information.
+2.Provide a platform to connect with seniors.
+3.Enable profile management and feedback submission.
+4.Demonstrate practical use of Python fundamentals.
 
 📈 Future Enhancements
-GUI using Tkinter
-Database integration using SQLite or MySQL
-Event Registration System
-Attendance Tracker
-Email Notifications
-Role-Based Access Control
+1.GUI using Tkinter
+2.Database integration using SQLite or MySQL
+3.Event Registration System
+4.Attendance Tracker
+5.Email Notifications
+6.Role-Based Access Control
+
 
 This project was developed as a Python mini-project to demonstrate programming fundamentals and practical application development.
 
